@@ -20,7 +20,7 @@ namespace csharp_fundamentals_arrays.Main
         {
             //TODO: 1. Print the word "Hello"
             // WRITE YOUR CODE BETWEEN THIS LINE...
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello there");
             // ... AND THIS LINE
         }
 
